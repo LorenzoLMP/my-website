@@ -9,5 +9,5 @@
 	],
 	"p1_image": "https://picsum.photos/400",
 	"p1_headline": "CSS Forest: Bootstrap",
-	"p1_content": "<p>Test edit!</p>"
+	"p1_content": "<p>Test edit! Use the link <span class=\"pl-kos\">&lt;</span><span class=\"pl-ent\">a</span> <span class=\"pl-c1\">href</span>=\"<span class=\"pl-s\">?login</span>\"<span class=\"pl-kos\">&gt;</span>?login<span class=\"pl-kos\">&lt;/</span><span class=\"pl-ent\">a</span><span class=\"pl-kos\">&gt;</span> to see the edit toolbar</p>"
 }
